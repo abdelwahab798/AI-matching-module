@@ -1,0 +1,431 @@
+{
+  "jobId": "j-005",
+  "topK": 10,
+  "results": [
+    {
+      "ID": "c-011",
+      "score": 0.775,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility",
+        "React Hook Form",
+        "Zod"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Hook Form,(direct), Zod,(direct)",
+          "weight": 0.1
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-001",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-007",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-018",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-020",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-023",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 7,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "7 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-027",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-028",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Forms"
+      ],
+      "missingMustHaveSkills": [
+        "Accessibility"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Forms",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Accessibility",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-030",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Forms"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling",
+        "Vitest"
+      ],
+      "yearsOfExperience": 8,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "8 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-016",
+      "score": 0.6,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Vitest"
+      ],
+      "missingMustHaveSkills": [
+        "Forms",
+        "Accessibility"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Hook Form",
+        "Zod",
+        "Error Handling"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.25
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Forms, Accessibility",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Vitest,(direct)",
+          "weight": 0.05
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "approach": "baseline-v1",
+    "totalScored": 30,
+    "generatedAt": "2026-05-10T17:43:02.258003+00:00"
+  }
+}

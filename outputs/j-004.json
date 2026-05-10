@@ -1,0 +1,446 @@
+{
+  "jobId": "j-004",
+  "topK": 10,
+  "results": [
+    {
+      "ID": "c-018",
+      "score": 0.6733,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-021",
+      "score": 0.6733,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-024",
+      "score": 0.6733,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Performance"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Performance,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-026",
+      "score": 0.6733,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-030",
+      "score": 0.6733,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 8,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "8 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-001",
+      "score": 0.6333,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-004",
+      "score": 0.6333,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-006",
+      "score": 0.6333,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-007",
+      "score": 0.6333,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-010",
+      "score": 0.6333,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Data Visualization"
+      ],
+      "missingNiceToHaveSkills": [
+        "D3",
+        "Recharts",
+        "React Query",
+        "URL State",
+        "Performance"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.333
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Data Visualization",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "approach": "baseline-v1",
+    "totalScored": 30,
+    "generatedAt": "2026-05-10T17:43:02.256880+00:00"
+  }
+}

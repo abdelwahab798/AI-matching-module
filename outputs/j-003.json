@@ -1,0 +1,413 @@
+{
+  "jobId": "j-003",
+  "topK": 10,
+  "results": [
+    {
+      "ID": "c-023",
+      "score": 0.9,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Storybook",
+        "Accessibility",
+        "Design Tokens",
+        "Monorepos"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 7,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Storybook, Accessibility",
+          "weight": 0.5
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Design Tokens,(direct), Monorepos,(direct)",
+          "weight": 0.1
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "7 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-001",
+      "score": 0.8,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Storybook",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Storybook, Accessibility",
+          "weight": 0.5
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-007",
+      "score": 0.8,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Storybook",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Storybook, Accessibility",
+          "weight": 0.5
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-014",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Storybook"
+      ],
+      "missingMustHaveSkills": [
+        "Accessibility"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Storybook",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Accessibility",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-018",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-027",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-030",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 8,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "8 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-011",
+      "score": 0.625,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook",
+          "weight": 0
+        },
+        {
+          "type": "Experince_miss",
+          "Data": "3 years < 4 years",
+          "weight": 0.15
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-020",
+      "score": 0.625,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing",
+        "CSS Modules"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Accessibility",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook",
+          "weight": 0
+        },
+        {
+          "type": "Experince_miss",
+          "Data": "3 years < 4 years",
+          "weight": 0.15
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-004",
+      "score": 0.6,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS Modules"
+      ],
+      "missingMustHaveSkills": [
+        "Storybook",
+        "Accessibility"
+      ],
+      "missingNiceToHaveSkills": [
+        "Design Tokens",
+        "Monorepos",
+        "Visual Regression Testing"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.25
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Storybook, Accessibility",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "CSS Modules,(direct)",
+          "weight": 0.05
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 4 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "approach": "baseline-v1",
+    "totalScored": 30,
+    "generatedAt": "2026-05-10T17:43:02.255755+00:00"
+  }
+}

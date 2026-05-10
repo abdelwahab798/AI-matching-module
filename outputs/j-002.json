@@ -1,0 +1,456 @@
+{
+  "jobId": "j-002",
+  "topK": 10,
+  "results": [
+    {
+      "ID": "c-021",
+      "score": 0.755,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library",
+        "React Query",
+        "TanStack Table"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct), TanStack Table,(direct)",
+          "weight": 0.08
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-004",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-014",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-016",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library",
+        "Vitest"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Vitest,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_miss",
+          "Data": "4 years < 5 years",
+          "weight": 0.16
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-028",
+      "score": 0.675,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-024",
+      "score": 0.635,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Performance"
+      ],
+      "missingMustHaveSkills": [
+        "Testing Library"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Performance",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Testing Library",
+          "weight": 0
+        },
+        {
+          "type": "Experince_miss",
+          "Data": "4 years < 5 years",
+          "weight": 0.16
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-018",
+      "score": 0.59,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Performance",
+        "Testing Library"
+      ],
+      "missingNiceToHaveSkills": [
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.25
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance, Testing Library",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-030",
+      "score": 0.59,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "Performance",
+        "Testing Library"
+      ],
+      "missingNiceToHaveSkills": [
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 8,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.25
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance, Testing Library",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "8 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-012",
+      "score": 0.575,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Testing Library",
+        "Vitest"
+      ],
+      "missingMustHaveSkills": [
+        "Performance"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, Testing Library",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Vitest,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_miss",
+          "Data": "4 years < 5 years",
+          "weight": 0.16
+        },
+        {
+          "type": "Location_miss",
+          "Data": "Alexandria, Egypt miss with Cairo, Egypt",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "ID": "c-006",
+      "score": 0.55,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "missingMustHaveSkills": [
+        "Performance",
+        "Testing Library"
+      ],
+      "missingNiceToHaveSkills": [
+        "React Query",
+        "Vitest",
+        "Code Splitting",
+        "Lighthouse",
+        "TanStack Table"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript",
+          "weight": 0.25
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "Performance, Testing Library",
+          "weight": 0
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 5 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "approach": "baseline-v1",
+    "totalScored": 30,
+    "generatedAt": "2026-05-10T17:43:02.254620+00:00"
+  }
+}

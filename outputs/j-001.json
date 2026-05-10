@@ -1,0 +1,442 @@
+{
+  "jobId": "j-001",
+  "topK": 10,
+  "results": [
+    {
+      "ID": "c-010",
+      "score": 0.8,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "React Router"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS, React Router",
+          "weight": 0.5
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-015",
+      "score": 0.8,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "React Router"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS, React Router",
+          "weight": 0.5
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-019",
+      "score": 0.8,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "React Router"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS, React Router",
+          "weight": 0.5
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-001",
+      "score": 0.755,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Accessibility",
+        "Storybook"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Accessibility,(direct), Storybook,(direct)",
+          "weight": 0.08
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-018",
+      "score": 0.755,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Accessibility",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Storybook",
+        "Vitest",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 5,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Accessibility,(direct), React Query,(direct)",
+          "weight": 0.08
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "5 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-025",
+      "score": 0.74,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "React Router",
+        "Vitest"
+      ],
+      "missingMustHaveSkills": [],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS, React Router",
+          "weight": 0.5
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Vitest,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_miss",
+          "Data": "Alexandria, Egypt miss with Cairo, Egypt",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "ID": "c-011",
+      "score": 0.715,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Storybook",
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Accessibility,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-016",
+      "score": 0.715,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Vitest"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 4,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Vitest,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "4 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-020",
+      "score": 0.715,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "Accessibility"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Storybook",
+        "Vitest",
+        "React Query",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 3,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "Accessibility,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "3 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    },
+    {
+      "ID": "c-021",
+      "score": 0.715,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "React Query"
+      ],
+      "missingMustHaveSkills": [
+        "React Router"
+      ],
+      "missingNiceToHaveSkills": [
+        "Accessibility",
+        "Storybook",
+        "Vitest",
+        "Design Tokens"
+      ],
+      "yearsOfExperience": 6,
+      "reasons": [
+        {
+          "type": "must_have_match",
+          "Data": "React, TypeScript, CSS",
+          "weight": 0.375
+        },
+        {
+          "type": "Must_have_missing",
+          "Data": "React Router",
+          "weight": 0
+        },
+        {
+          "type": "nice_to_have_match",
+          "Data": "React Query,(direct)",
+          "weight": 0.04
+        },
+        {
+          "type": "Experince_fit",
+          "Data": "6 years => 3 years",
+          "weight": 0.2
+        },
+        {
+          "type": "Location_fit",
+          "Data": "Cairo, Egypt fit with Cairo, Egypt",
+          "weight": 0.1
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "approach": "baseline-v1",
+    "totalScored": 30,
+    "generatedAt": "2026-05-10T17:43:02.253345+00:00"
+  }
+}
